@@ -1,0 +1,31 @@
+Medicine Name,Brand,Category,Form,Strength,Price (USD),Stock
+Paracetamol,Tylenol,Pain Reliever,Tablet,500mg,5,10
+Amoxicillin,Amoxil,Antibiotic,Capsule,500mg,8,10
+Metformin,Glucophage,Antidiabetic,Tablet,500mg,12,10
+Lisinopril,Prinivil,Antihypertensive,Tablet,10mg,10,10
+Atorvastatin,Lipitor,Cholesterol,Tablet,20mg,15,10
+Omeprazole,Prilosec,Antacid,Capsule,20mg,10,10
+Ibuprofen,Advil,Pain Reliever,Tablet,400mg,6,10
+Levothyroxine,Synthroid,Thyroid Hormone,Tablet,100mcg,20,10
+Amlodipine,Norvasc,Antihypertensive,Tablet,5mg,9,10
+Simvastatin,Zocor,Cholesterol,Tablet,40mg,10,10
+Losartan,Cozaar,Antihypertensive,Tablet,50mg,12,10
+Clopidogrel,Plavix,Antiplatelet,Tablet,75mg,18,10
+Sertraline,Zoloft,Antidepressant,Tablet,50mg,15,10
+Furosemide,Lasix,Diuretic,Tablet,40mg,5,10
+Citalopram,Celexa,Antidepressant,Tablet,20mg,14,10
+Prednisone,Deltasone,Corticosteroid,Tablet,10mg,7,10
+Pantoprazole,Protonix,Antacid,Tablet,40mg,11,10
+Hydrochlorothiazide,Microzide,Diuretic,Tablet,25mg,5,10
+Gabapentin,Neurontin,Anticonvulsant,Capsule,300mg,25,10
+Cetirizine,Zyrtec,Antihistamine,Tablet,10mg,4,10
+Albuterol,ProAir,Asthma Inhaler,Inhaler,90mcg,30,10
+Fluoxetine,Prozac,Antidepressant,Capsule,20mg,15,10
+Insulin Glargine,Lantus,Antidiabetic,Injection,100U/mL,50,10
+Tramadol,Ultram,Pain Reliever,Tablet,50mg,8,10
+Metoprolol,Lopressor,Antihypertensive,Tablet,50mg,10,10
+Montelukast,Singulair,Anti-Asthma,Tablet,10mg,12,10
+Warfarin,Coumadin,Anticoagulant,Tablet,5mg,18,10
+Duloxetine,Cymbalta,Antidepressant,Capsule,30mg,22,10
+Tamsulosin,Flomax,Benign Prostatic Hyperplasia,Tablet,0.4mg,20,10
+Azithromycin,Zithromax,Antibiotic,Tablet,250mg,15,10
